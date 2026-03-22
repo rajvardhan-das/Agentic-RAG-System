@@ -229,7 +229,7 @@ POST /upload (multipart/form-data)
 
 
 
-🏆 Assignment Coverage
+🏆 Coverage
 Requirement	                    Status
 Agentic RAG	                    ✅
 Milvus Vector Database	        ✅
@@ -259,6 +259,6 @@ Data Scientist
 
 
 =======
-# Vegam-Agentic-RAG-System
+
 Built an Agentic RAG System that uses AI agents to intelligently retrieve and  answer questions from documents.
 >>>>>>> 1cb833824e68fa1b10e36e325ceca173ecbad8a1
