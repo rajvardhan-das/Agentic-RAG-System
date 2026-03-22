@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Agentic RAG Chatbot 🚀
 
 RAG | MCP | Milvus | Self-Hosted LLM | Streamlit | Multi Agent | Error Handling | FastAPI | Gemini
